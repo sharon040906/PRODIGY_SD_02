@@ -13,10 +13,8 @@ A fun console-based game where the user tries to guess a randomly generated numb
 - C Programming
 
 ## 📌 How to Run
-1. Compile the program:
-   gcc guessing_game.c -o game
-2. Run:
-   ./game
+1. Compile the program
+2. Run
 
 ## 🎮 Gameplay
 - The system generates a random number
@@ -27,8 +25,8 @@ A fun console-based game where the user tries to guess a randomly generated numb
 - Loops and conditions
 - Random number generation
 - Game logic implementation
-## 🧠 Key Concepts Explained
 
+## 🧠 Key Concepts Explained
 ### 🔹 Random Number Generation
 The program uses functions like `rand()` to generate unpredictable numbers, making the game dynamic.
 
